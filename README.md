@@ -1,65 +1,92 @@
-# Hi 👋 I'm Geeta
+<div align="center">
 
-### Full Stack Web Development Learner | Student | Developer
+# 🌸 Hey there, I'm Geeta 👋
 
-Welcome to my GitHub profile ✨  
-I enjoy building projects, learning new technologies, and improving my development skills.
+### 💻 Full Stack Web Development Learner | 🚀 Developer | 🎓 Student
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=FF69B4&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Full+Stack+Developer+in+Progress;Learning+%26+Building+Projects;Always+Growing+✨">
 
-## 👩‍💻 About Me
-🎓 Student  
-💻 Interested in Full Stack Web Development  
-🌱 Learning and exploring modern web technologies  
-🚀 Building projects and gaining practical experience  
-📌 Interested in Java, JavaScript, React and GitHub  
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🌷 About Me
 
-💻 Languages  
-- Java  
-- JavaScript  
-- HTML  
-- CSS  
-
-⚙️ Tools & Technologies  
-- React  
-- Git  
-- GitHub  
-- VS Code  
+✨ Student passionate about technology  
+💻 Learning Full Stack Web Development  
+🚀 Building projects and improving coding skills  
+🌱 Exploring new tools and technologies  
+🎯 Goal: Become a skilled software developer  
 
 ---
 
-## 📂 Featured Projects
+## 💖 Tech Stack
 
-### 🔹 AI Driven Online Exam Detection System
-- Online exam monitoring
-- Face detection
-- Tab switch detection
-- Warning and auto exam termination
+<p align="center">
 
-### 🔹 College Management Website
-- Admin Dashboard
-- Admission Management
-- Fees Management
-- Digital Payment System
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black">
 
----
+<br>
 
-## 📈 GitHub Stats
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=geethaaaaaaa&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geethaaaaaaa&layout=compact)
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 🚀 Featured Projects
 
-🔗 GitHub: https://github.com/geethaaaaaaa
+🌟 **AI Driven Online Exam Detection System**  
+✔ Face Detection  
+✔ Tab Switch Monitoring  
+✔ Warning System  
+✔ Auto Exam Termination  
+
+🌟 **College Management Website**  
+✔ Admin Dashboard  
+✔ Admission Management  
+✔ Fee Management  
+✔ Digital Payments  
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 📊 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=geethaaaaaaa&show_icons=true&theme=radical)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=geethaaaaaaa&theme=radical)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=geethaaaaaaa&layout=compact&theme=radical)
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+🏅 Keep Learning  
+🏅 Keep Building  
+🏅 Keep Growing  
+
+---
+
+## 🌸 Connect With Me
+
+💜 GitHub → https://github.com/geethaaaaaaa
+
+---
+
+<div align="center">
+
+✨ Thanks for visiting my profile ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
+
+</div>
