@@ -1,7 +1,5 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:ff6ec4,25:7873f5,50:42e695,75:feb47b,100:ff0844&text=GEETA&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
-
 # 🌈 Hello, I'm Geeta
 
 ### 💻 Full Stack Web Development Learner • 🚀 Developer • 🎓 Student
@@ -97,7 +95,5 @@
 <div align="center">
 
 ### ✨ Thanks for visiting ✨
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:ff6ec4,25:7873f5,50:42e695,75:feb47b,100:ff0844"/>
 
 </div>
