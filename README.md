@@ -1,57 +1,59 @@
 <div align="center">
 
-# 🌸 Hey there, I'm Geeta 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:ff6ec4,25:7873f5,50:42e695,75:feb47b,100:ff0844&text=GEETA&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 
-### 💻 Full Stack Web Development Learner | 🚀 Developer | 🎓 Student
+# 🌈 Hello, I'm Geeta
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=FF69B4&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Full+Stack+Developer+in+Progress;Learning+%26+Building+Projects;Always+Growing+✨">
+### 💻 Full Stack Web Development Learner • 🚀 Developer • 🎓 Student
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=28&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile;Learning+%7C+Building+%7C+Growing;Full+Stack+Developer+in+Progress;Creating+Projects+Everyday"/>
 
 </div>
 
 ---
 
-## 🌷 About Me
+## 🎨 About Me
 
-✨ Student passionate about technology  
-💻 Learning Full Stack Web Development  
-🚀 Building projects and improving coding skills  
-🌱 Exploring new tools and technologies  
-🎯 Goal: Become a skilled software developer  
-
----
-
-## 💖 Tech Stack
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black">
-
-<br>
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-
-</p>
+✨ Passionate about coding  
+🚀 Learning Full Stack Development  
+🌱 Exploring new technologies  
+💡 Building creative projects  
+📈 Improving every day  
 
 ---
 
-## 🚀 Featured Projects
+## 🌟 Tech Stack
 
-🌟 **AI Driven Online Exam Detection System**  
-✔ Face Detection  
-✔ Tab Switch Monitoring  
-✔ Warning System  
-✔ Auto Exam Termination  
+<div align="center">
 
-🌟 **College Management Website**  
-✔ Admin Dashboard  
-✔ Admission Management  
-✔ Fee Management  
-✔ Digital Payments  
+<img src="https://skillicons.dev/icons?i=html,css,js,java,react,git,github,vscode"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/HTML-FF5733?style=for-the-badge">
+<img src="https://img.shields.io/badge/CSS-0099FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge">
+<img src="https://img.shields.io/badge/Java-FF7A00?style=for-the-badge">
+<img src="https://img.shields.io/badge/React-00D9FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/GitHub-7B61FF?style=for-the-badge">
+
+</div>
+
+---
+
+## 🚀 Projects
+
+🖥️ **AI Driven Online Exam Detection System**  
+→ Face Detection  
+→ Warning System  
+→ Tab Switch Monitoring  
+→ Auto Exam Termination  
+
+🏫 **College Management Website**  
+→ Admin Dashboard  
+→ Admission  
+→ Fees  
+→ Digital Payment  
 
 ---
 
@@ -59,34 +61,43 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=geethaaaaaaa&show_icons=true&theme=radical)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=geethaaaaaaa&show_icons=true&theme=radical&hide_border=true"/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=geethaaaaaaa&theme=radical)
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geethaaaaaaa&layout=compact&theme=tokyonight&hide_border=true"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=geethaaaaaaa&layout=compact&theme=radical)
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=geethaaaaaaa&theme=highcontrast&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🏆 Goals
 
-🏅 Keep Learning  
-🏅 Keep Building  
-🏅 Keep Growing  
-
----
-
-## 🌸 Connect With Me
-
-💜 GitHub → https://github.com/geethaaaaaaa
+🌈 Learn More  
+⚡ Build More  
+🚀 Grow More  
+✨ Explore More  
 
 ---
 
 <div align="center">
 
-✨ Thanks for visiting my profile ✨
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=geethaaaaaaa&style=for-the-badge&color=blueviolet"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Thanks for visiting ✨
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:ff6ec4,25:7873f5,50:42e695,75:feb47b,100:ff0844"/>
 
 </div>
